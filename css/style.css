@@ -1,0 +1,19 @@
+.cor-nome {
+  color: #fff;
+  font-family: "Courier New", Courier, monospace;
+}
+
+h2 {
+  color: coral;
+  margin: 0;
+  background-color: blue;
+}
+
+ol {
+  margin: 0;
+  background-color: aqua;
+}
+.div {
+  color: crimson;
+  background-color: #fff;
+}
