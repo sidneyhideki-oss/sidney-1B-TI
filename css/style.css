@@ -1,22 +1,25 @@
 .cor-nome {
-  color: #fff;
-  font-family: "Courier New", Courier, monospace;
+  margin: 2%;
+  color: black;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
 h2 {
   color: black;
-  margin: 0;
+  margin: 1%;
   background-color: cyan;
 }
 
 ol {
-  margin: 0;
+  margin: 1%;
   background-color: aqua;
 }
-.div {
-  color: crimson;
-  background-color: #fff;
+.div-titulo {
+  margin: 3%;
+  color: black;
+  background-color:  darkcyan;
 }
-.div{
-  background-color: black;
+.div-img{
+  font-size: 10px;
+  background-color: deeppink
 }
